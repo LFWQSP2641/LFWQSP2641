@@ -1,4 +1,5 @@
 ### 👋 Hi, I’m @LFWQSP2641, a senior high school grade 2 student studying at the Jinchuan High School.
+
 ## ⚡ Technologies
 ![Qt](https://img.shields.io/badge/Qt-24292e?style=flat-square&logo=Qt&labelColor=24292e&color=474d56)&nbsp;
 ![C++](https://img.shields.io/badge/language-c%2B%2B-%23F34B7D)&nbsp;
@@ -12,3 +13,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-24292e?style=flat-square&logo=visualstudiocode)&nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LFWQSP2641)
+
+## ⚡ Visitor count
+![](https://profile-counter.glitch.me/LFWQSP2641/count.svg)
