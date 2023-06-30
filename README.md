@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @LFWQSP2641, a senior high school grade 2 student studying at the Jinchuan High School.
+### 👋 Hi, I’m @LFWQSP2641, a senior high school grade 2 student studying at the Jinchuan High School(No.4 Longpan Ln, Jinchang, GANSU, China).
 
 ## ⚡ Technologies
 ![Qt](https://img.shields.io/badge/Qt-24292e?style=flat-square&logo=Qt&labelColor=24292e&color=474d56)&nbsp;
