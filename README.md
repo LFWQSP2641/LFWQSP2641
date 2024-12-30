@@ -16,7 +16,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-24292e?style=flat-square&logo=markdown)&nbsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LFWQSP2641)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LFWQSP2641&hide=javascript,css,scss,html&theme=tokyonight)
 
 ## ⚡ Visitor count
 ![](https://profile-counter.glitch.me/LFWQSP2641/count.svg)
